@@ -8,9 +8,9 @@ The urls of those services:
 - SonarQube: 192.168.75.132:9000
 - Nexus: 192.168.75.132:8081
 
-#Jenkins
-Config jenkins admin and add these plugin:
-	
+# Jenkins
+
+Config jenkins admin and add these plugin:	
 - Pipeline Maven Integration Plugin (name 'maven3')
 - SonarQube Scanner for Jenkins: 
 - Nexus Artifact Uploader
